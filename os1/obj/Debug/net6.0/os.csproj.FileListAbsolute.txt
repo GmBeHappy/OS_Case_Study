@@ -1,0 +1,15 @@
+/Users/witchayutgerdchai/gm/os/bin/Debug/net6.0/os
+/Users/witchayutgerdchai/gm/os/bin/Debug/net6.0/os.deps.json
+/Users/witchayutgerdchai/gm/os/bin/Debug/net6.0/os.runtimeconfig.json
+/Users/witchayutgerdchai/gm/os/bin/Debug/net6.0/os.dll
+/Users/witchayutgerdchai/gm/os/bin/Debug/net6.0/os.pdb
+/Users/witchayutgerdchai/gm/os/obj/Debug/net6.0/os.csproj.AssemblyReference.cache
+/Users/witchayutgerdchai/gm/os/obj/Debug/net6.0/os.GeneratedMSBuildEditorConfig.editorconfig
+/Users/witchayutgerdchai/gm/os/obj/Debug/net6.0/os.AssemblyInfoInputs.cache
+/Users/witchayutgerdchai/gm/os/obj/Debug/net6.0/os.AssemblyInfo.cs
+/Users/witchayutgerdchai/gm/os/obj/Debug/net6.0/os.csproj.CoreCompileInputs.cache
+/Users/witchayutgerdchai/gm/os/obj/Debug/net6.0/os.dll
+/Users/witchayutgerdchai/gm/os/obj/Debug/net6.0/refint/os.dll
+/Users/witchayutgerdchai/gm/os/obj/Debug/net6.0/os.pdb
+/Users/witchayutgerdchai/gm/os/obj/Debug/net6.0/os.genruntimeconfig.cache
+/Users/witchayutgerdchai/gm/os/obj/Debug/net6.0/ref/os.dll

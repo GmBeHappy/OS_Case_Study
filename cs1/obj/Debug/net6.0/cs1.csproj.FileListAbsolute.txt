@@ -1,0 +1,15 @@
+/Users/witchayutgerdchai/gm/os/cs1/bin/Debug/net6.0/cs1
+/Users/witchayutgerdchai/gm/os/cs1/bin/Debug/net6.0/cs1.deps.json
+/Users/witchayutgerdchai/gm/os/cs1/bin/Debug/net6.0/cs1.runtimeconfig.json
+/Users/witchayutgerdchai/gm/os/cs1/bin/Debug/net6.0/cs1.dll
+/Users/witchayutgerdchai/gm/os/cs1/bin/Debug/net6.0/cs1.pdb
+/Users/witchayutgerdchai/gm/os/cs1/obj/Debug/net6.0/cs1.csproj.AssemblyReference.cache
+/Users/witchayutgerdchai/gm/os/cs1/obj/Debug/net6.0/cs1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/witchayutgerdchai/gm/os/cs1/obj/Debug/net6.0/cs1.AssemblyInfoInputs.cache
+/Users/witchayutgerdchai/gm/os/cs1/obj/Debug/net6.0/cs1.AssemblyInfo.cs
+/Users/witchayutgerdchai/gm/os/cs1/obj/Debug/net6.0/cs1.csproj.CoreCompileInputs.cache
+/Users/witchayutgerdchai/gm/os/cs1/obj/Debug/net6.0/cs1.dll
+/Users/witchayutgerdchai/gm/os/cs1/obj/Debug/net6.0/refint/cs1.dll
+/Users/witchayutgerdchai/gm/os/cs1/obj/Debug/net6.0/cs1.pdb
+/Users/witchayutgerdchai/gm/os/cs1/obj/Debug/net6.0/cs1.genruntimeconfig.cache
+/Users/witchayutgerdchai/gm/os/cs1/obj/Debug/net6.0/ref/cs1.dll
